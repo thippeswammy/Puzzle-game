@@ -1,5 +1,6 @@
-package com.thippeswamy.app.projectCompleted;// Number 15 puzzle development...
-
+/**
+ * @author thippeswammy
+ */
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
