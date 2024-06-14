@@ -11,3 +11,10 @@ Move analysis: The game dynamically analyzes the grid with every move, providing
 
 # Output:
 ![puzzle game - Made with Clipchamp](https://github.com/thippeswammy/Puzzle-game/assets/73697198/713d6dba-41b4-4dc4-9b3f-421918cb55e4)
+
+# Installation:
+
+To run the game locally, follow these steps:
+create new project in NetBeans or your preferred Java IDE.
+download the file and put in scr folder then.
+Build and run the project.
