@@ -15,6 +15,9 @@ Move analysis: The game dynamically analyzes the grid with every move, providing
 # Installation:
 
 To run the game locally, follow these steps:
+
 create new project in NetBeans or your preferred Java IDE.
-download the file and put in scr folder then.
+
+download the "NumberPuzzleGame.java" and put in scr folder then.
+
 Build and run the project.
