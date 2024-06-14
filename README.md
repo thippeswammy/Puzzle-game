@@ -1,4 +1,4 @@
-# NumberPuzzleGame
+# Puzzle Game
 A Java-based puzzle game application built using Swing, featuring an interactive grid of buttons for an engaging gaming experience.
 
 #NumberGridPuzzle is a Java Swing game developed in NetBeans, offering an interactive experience where players arrange numbers in ascending order within a grid. The game supports grid sizes ranging from 3x3 to 6x6, providing varying levels of challenge.
